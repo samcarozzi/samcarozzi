@@ -1,6 +1,6 @@
 # 🌌 Samantha Carozzi
 
-**AI/UX/UI Researcher | Making AI Accessible for Musicians and Creators**
+**Computer Science (AI/HCI) student interested in product management / development experienced in AI model creation/training, software engineering (front and back end), data science, and startup/VC management.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-carozzi-904976245/)
 
