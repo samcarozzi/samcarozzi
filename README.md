@@ -1,6 +1,6 @@
-# 🌌 Samantha Carozzi | Computer Science Major
+# 🌌 Samantha Carozzi 
 
-**Stamp's President's Scholar at Georgia Institute of Technology**
+**Stamp's President's Scholar at Georgia Institute of Technology | Studying Computer Science**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-carozzi-904976245/)
 
