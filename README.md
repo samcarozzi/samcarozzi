@@ -22,7 +22,7 @@ AI/UX/UI researcher focused on AI-driven tools for creative tech. Currently enha
 
 ---
 
-### 🎶 Featured Projects
+### 🎶 Check out my pinned repositories!
 
 - **Spotify API App**: Music data insights and personalized recommendations.
 - **AI Music Generator**: TensorFlow-based model for accessible music composition.
