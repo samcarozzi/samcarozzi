@@ -30,7 +30,7 @@ AI/UX/UI researcher focused on AI-driven tools for creative tech. Currently enha
 
 ---
 
-### 🎨 Design Portfolio
+### 🎨 Design and Data Visualization Portfolio
 
 I'm also interested in UX and UI design, with a focus on enhancing usability and aesthetic appeal. Check out my design portfolio for interactive prototypes, Figma layouts, and frontend design elements:
 
