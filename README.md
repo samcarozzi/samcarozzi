@@ -1,4 +1,4 @@
-# 🌌 Samantha Carozzi 
+# 🌌 Sam Carozzi 
 
 **Stamp's President's Scholar at Georgia Institute of Technology | Studying Computer Science**
 
